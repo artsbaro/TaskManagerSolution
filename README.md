@@ -1,6 +1,6 @@
 # Task Manager API
 
-## Sobre o Projeto
+## Sobre o Projeto 
 O **Task Manager API** é uma solução para gerenciamento de projetos e tarefas, desenvolvida com foco em organização e colaboração. Esta API fornece funcionalidades para criar, visualizar, atualizar e excluir projetos e tarefas, além de gerar relatórios de desempenho.
 
 ---
